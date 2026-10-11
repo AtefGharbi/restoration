@@ -1,0 +1,20 @@
+{
+ "C1_static_zero_shaping": {
+  "episodes": 40,
+  "early_terminations": 40,
+  "max_abs_err": 3.552713678800501e-15,
+  "mean_abs_err": 9.478529072737274e-16
+ },
+ "C2_bootstrap_with_post_termination_dynamics": {
+  "episodes": 40,
+  "early_terminations": 40,
+  "max_abs_err": 0.12092304751215188,
+  "mean_abs_err": 0.00763149551814202
+ },
+ "C3_fix_no_early_termination_under_dynamics": {
+  "episodes": 40,
+  "early_terminations": 0,
+  "max_abs_err": 8.881784197001252e-16,
+  "mean_abs_err": 2.886579864025407e-16
+ }
+}

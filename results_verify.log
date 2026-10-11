@@ -1,0 +1,1 @@
+V1 {'is_dcp': True, 'mixed_integer': True, 'zero': 37, 'nonneg': 158, 'soc': [3, 3, 3, 3, 3, 3, 3, 3, 3], 'exp': 0, 'psd': [], 'p3d': [], 'n_bool': 30, 'n_cont': 40}

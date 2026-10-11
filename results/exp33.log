@@ -1,0 +1,23 @@
+ieee33 B0 done 0.1
+ieee33 B1 done 3.4
+ieee33 B3 done 5.0
+ieee33 B7 0 train 60s eval 1s ENS(S2,3) 921.2
+ieee33 B7 1 train 53s eval 1s ENS(S2,3) 966.2
+ieee33 B7 2 train 55s eval 1s ENS(S2,3) 999.1
+ieee33 B7 3 train 59s eval 1s ENS(S2,3) 951.4
+ieee33 B7 4 train 61s eval 2s ENS(S2,3) 982.0
+ieee33 B7 5 train 58s eval 1s ENS(S2,3) 906.7
+ieee33 B7 6 train 72s eval 2s ENS(S2,3) 1070.5
+ieee33 B7 7 train 54s eval 1s ENS(S2,3) 891.0
+ieee33 B7 8 train 28s eval 1s ENS(S2,3) 984.1
+ieee33 B7 9 train 27s eval 1s ENS(S2,3) 879.1
+ieee33 B8 0 train 59s eval 3s ENS(S2,3) 912.5
+ieee33 B8 1 train 58s eval 3s ENS(S2,3) 949.0
+ieee33 B8 2 train 66s eval 3s ENS(S2,3) 833.5
+ieee33 B8 3 train 61s eval 3s ENS(S2,3) 856.9
+ieee33 B8 4 train 60s eval 3s ENS(S2,3) 838.3
+ieee33 B8 5 train 58s eval 3s ENS(S2,3) 939.3
+ieee33 B8 6 train 59s eval 3s ENS(S2,3) 918.5
+ieee33 B8 7 train 59s eval 3s ENS(S2,3) 1044.9
+ieee33 B8 8 train 58s eval 3s ENS(S2,3) 952.1
+ieee33 B8 9 train 60s eval 3s ENS(S2,3) 940.0

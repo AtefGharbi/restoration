@@ -1,0 +1,2 @@
+400 train 16s ret first/last100 3.470 5.161 ENS S2-3 1066.5 {'supervisor': 0.2, 'local_masks': 2.6, 'actor_forward': 1.6, 'assembly': 0.3, 'env_step': 0.1, 'ppo_update': 8.7}
+1600 train 48s ret first/last100 3.470 6.262 ENS S2-3 830.4 {'supervisor': 0.3, 'local_masks': 4.4, 'actor_forward': 6.0, 'assembly': 0.4, 'env_step': 0.3, 'ppo_update': 33.4}

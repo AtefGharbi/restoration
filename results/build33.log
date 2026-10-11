@@ -1,0 +1,14 @@
+ieee33 test 0 5
+/home/claude/restoration/restoration/misocp.py:135: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  prob.solve(solver=cp.SCIP, scip_params=SCIP_PARAMS)
+ieee33 test 25 60
+ieee33 test 50 100
+ieee33 test 75 146
+ieee33 test 100 182
+ieee33 train 0 208
+ieee33 train 40 242
+ieee33 train 80 276
+ieee33 train 120 321
+ieee33 train 160 356
+ieee33 train 200 380
+done ieee33 413 s; not proven optimal: 7
